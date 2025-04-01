@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Leia um número e exiba seu sucessor
+
 int main() {
     int num = 5;
     int sucessor = num + 1;
