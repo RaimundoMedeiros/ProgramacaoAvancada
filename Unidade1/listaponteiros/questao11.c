@@ -17,7 +17,7 @@ main(){
 }
 */
 
-/*Primeiramente, o main deve ser declarado com o tipo de retorno que é int, o int x = 3 e char nome [] = "jose" não podem ser inicializados dentro do struct, o array nome[] está com tamanho indefinido, o ponteiro struct teste *s não recebeu uma alocação de memória
+/*o int x = 3 e char nome [] = "jose" não podem ser inicializados dentro do struct, o array nome[] está com tamanho indefinido, o ponteiro struct teste *s não recebeu uma alocação de memória
 */
 
 /*Correção*/
