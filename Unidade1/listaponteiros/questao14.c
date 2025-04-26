@@ -11,7 +11,7 @@ int f(int a, int *pb, int **ppc) { // a é um inteiro que recebeu c no main, pb 
   a += 3; // a recebe o valor de a + 3, ou seja, 5 + 3 = 8
   return a + b + c; // a + b + c = 8 + 8 + 6 = 22
 }
-void main() {
+/*void main() {
   int c, *b, **a; //c é declarado como inteiro, b ponteiro para inteiro, a é um ponteiro para ponteiro de inteiro
   c = 5; // c recebe 5
   b = &c; // b recebe o endereço de c
@@ -20,4 +20,4 @@ void main() {
   //printf("%d\n", **a);
   printf("%d\n", f(c, b, a)); // chama a função f passando c, b e a como parâmetros
   //getchar(); 
-}
+}*/
